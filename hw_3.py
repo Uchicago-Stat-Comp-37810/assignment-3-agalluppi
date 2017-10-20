@@ -1,4 +1,4 @@
-Name: Zander Galluppi
+# Name: Zander Galluppi
 import math
 import random
 
